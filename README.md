@@ -1,6 +1,6 @@
 ### Hey there 👋, I'm Pavan.
-[![Linkedin Badge](https://img.shields.io/badge/-PavanJayasinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@pavanjayasinha-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pavanjayasinha)](https://medium.com/@KunalRaghav/)
-[![Gmail Badge](https://img.shields.io/badge/-pavanjayasjnha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:kraghav123@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-PavanJayasinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/)](https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/) [![Medium Badge](https://img.shields.io/badge/-@pavanjayasinha-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pavanjayasinha)](https://pavanjayasinha.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-pavanjayasjnha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:pavanjayasinha@gmail.com)
 
 I'm Pavan, a 17-year old quantum enthusiast 👨‍💻 that is passionate about software development among other topics. I'm into capital markets and dare I say it, also a self-proclaimed Notion wiz.🏄‍♂️.  
 
