@@ -4,7 +4,7 @@
 
 I'm Pavan, a 17-year old quantum enthusiast 👨‍💻 that is passionate about software development among other topics. I'm into capital markets and dare I say it, also a self-proclaimed Notion wiz.🏄‍♂️.  
 
-- 🌱 I’m currently learning qiskit and other quantum algorithms
+- 🌱 I’m currently learning quantum algorithms in the finance and chemistry space using qiskit
 - 💬 Let's discuss: tech, stocks, fitness
 
 That's all from me :dash:
