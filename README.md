@@ -1,5 +1,5 @@
 ### Hey there 👋, I'm Pavan.
-[![Personal website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://pavanjay.com/) [![Linkedin Badge](https://img.shields.io/badge/-PavanJayasinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/)](https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/) [![Medium Badge](https://img.shields.io/badge/-@pavanjayasinha-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pavanjayasinha)](https://pavanjayasinha.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-PavanJayasinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/)](https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/) [![Medium Badge](https://img.shields.io/badge/-@pavanjayasinha-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pavanjayasinha)](https://pavanjayasinha.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-pavanjayasinha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:pavanjayasinha@gmail.com)
 
 ### Now
