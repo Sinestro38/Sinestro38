@@ -1,13 +1,14 @@
 ### Hey there 👋, I'm Pavan.
-[![Linkedin Badge](https://img.shields.io/badge/-PavanJayasinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/)](https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/) [![Medium Badge](https://img.shields.io/badge/-@pavanjayasinha-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pavanjayasinha)](https://pavanjayasinha.medium.com/)
+[![Personal website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://pavanjay.com/) [![Linkedin Badge](https://img.shields.io/badge/-PavanJayasinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/)](https://www.linkedin.com/in/pavan-jayasinha-6b06b71b6/) [![Medium Badge](https://img.shields.io/badge/-@pavanjayasinha-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pavanjayasinha)](https://pavanjayasinha.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-pavanjayasinha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:pavanjayasinha@gmail.com)
 
-I'm Pavan, a 17-year old quantum enthusiast 👨‍💻 that is passionate about software development among other topics. I'm into capital markets and dare I say it, also a self-proclaimed Notion wiz.🏄‍♂️.  
+### Now
+- 🏗 Currently building a project applying quantum generative adversarial networks to portfolio optimization [@QOSF](https://qosf.org/)
+- 🌱 Learning quantum machine learning algorithms applied to finance, and occassionally writing about my learnings along the way. 
 
-- 🌱 I’m currently learning quantum algorithms in the finance and chemistry space using Qiskit and PennyLane
-- 💬 Let's discuss: tech, stocks, fitness
-
-That's all from me :dash:
+### Recent
+- 🏨 Built several projects in the QC/QML space—check them out below :)
+- ⚛ Competed at QHack 2021 placing in the Top 15 teams
 
 
 <!--
