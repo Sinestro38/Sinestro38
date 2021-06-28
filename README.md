@@ -3,10 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-pavanjayasinha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:pavanjayasinha@gmail.com)
 
 ### Now
-- 🏗 Currently building a project applying quantum generative adversarial networks to portfolio optimization [@QOSF](https://qosf.org/)
-- 🌱 Learning quantum machine learning algorithms applied to finance, and occassionally writing about my learnings along the way. 
+- ⚡ Investigating generative models as a Quantum AI research intern at Zapata Computing 
 
 ### Recent
+- ⚙ Built various quantum generative adversarial networks as part of a 3-month long project in the [QOSF mentorship program](https://qosf.org/qc_mentorship/)
 - 🏨 Built several projects in the QC/QML space—check them out below :)
 - ⚛ Competed at QHack 2021 placing in the Top 15 teams
 
