@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-pavanjayasinha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:pavanjayasinha@gmail.com)
 
 ### Now
-- ⚡ Investigating generative models as a Quantum AI research intern at Zapata Computing 
+- ⚡ Investigating generative models as a quantum AI research intern at Zapata Computing 
 
 ### Recent
 - ⚙ Built various quantum generative adversarial networks as part of a 3-month long project in the [QOSF mentorship program](https://qosf.org/qc_mentorship/)
