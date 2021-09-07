@@ -3,9 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-pavanjayasinha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:pavanjayasinha@gmail.com)
 
 ### Now
-- ⚡ Investigating generative models as a quantum AI research intern at Zapata Computing 
+- Writing a chapter for the [Qiskit Textbook](https://qiskit.org/textbook/preface.html) on unsupervised QML as a Qiskit Advocate
+- Learning as a freshman at the University of Waterloo for computer engineering
 
 ### Recent
+- ⚡ Investigated quantum generative models as a quantum AI intern at [Zapata Computing](https://www.zapatacomputing.com/) 
 - ⚙ Built various quantum generative adversarial networks as part of a 3-month long project in the [QOSF mentorship program](https://qosf.org/qc_mentorship/)
 - 🏨 Built several projects in the QC/QML space—check them out below :)
 - ⚛ Competed at QHack 2021 placing in the Top 15 teams
