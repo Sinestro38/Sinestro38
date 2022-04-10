@@ -3,14 +3,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-pavanjayasinha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:pavanjayasinha@gmail.com)
 
 ### Now
-- ✍ Writing a chapter for the [Qiskit Textbook](https://qiskit.org/textbook/preface.html) on unsupervised QML as a Qiskit Advocate
+- ⛏️ Research intern [@IQC](https://twitter.com/QuantumIQC) investigating applications of neutral atom quantum computing
 - 🏫 Learning as a freshman at the University of Waterloo for computer engineering
 
 ### Recent
+- ⚛ Competed at QHack 2022 placing in the Top 8 teams for a [project](https://pavanjayasinha.medium.com/quantum-graph-neural-networks-applied-1f5b37922425) on quantum graph neural networks
+- ✍ Wrote a chapter for the [Qiskit Textbook](https://learn.qiskit.org/course/machine-learning/quantum-generative-adversarial-networks) on QGANs as a Qiskit Advocate
 - ⚡ Investigated quantum generative models as a quantum AI intern at [Zapata Computing](https://www.zapatacomputing.com/) 
 - ⚙ Built various quantum generative adversarial networks as part of a 3-month long project in the [QOSF mentorship program](https://qosf.org/qc_mentorship/)
 - 🏨 Built several projects in the QC/QML space—check them out below :)
-- ⚛ Competed at QHack 2021 placing in the Top 15 teams
 
 
 <!--
