@@ -4,7 +4,7 @@
 
 ### Now
 - ⛏️ Research intern [@IQC](https://twitter.com/QuantumIQC) investigating applications of neutral atom quantum computing
-- 🏫 Learning as a freshman at the University of Waterloo for computer engineering
+- 🏫 Learning as an undergrad at the University of Waterloo for computer engineering
 
 ### Recent
 - ⚛ Competed at QHack 2022 placing in the Top 8 teams for a [project](https://pavanjayasinha.medium.com/quantum-graph-neural-networks-applied-1f5b37922425) on quantum graph neural networks
