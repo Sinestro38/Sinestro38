@@ -8,7 +8,7 @@
 
 ### Recent
 - ⚛ Competed at QHack 2022 placing in the Top 8 teams for a [project](https://pavanjayasinha.medium.com/quantum-graph-neural-networks-applied-1f5b37922425) on quantum graph neural networks
-- ✍ Wrote a chapter for the [Qiskit Textbook](https://learn.qiskit.org/course/machine-learning/quantum-generative-adversarial-networks) on QGANs as a Qiskit Advocate
+- ✍ Authored the section on QGANs for the [IBM Qiskit Textbook](https://learn.qiskit.org/course/machine-learning/quantum-generative-adversarial-networks) on quantum machine learning as a Qiskit Advocate
 - ⚡ Investigated quantum generative models as a quantum AI intern at [Zapata Computing](https://www.zapatacomputing.com/) 
 - ⚙ Built various quantum generative adversarial networks as part of a 3-month long project in the [QOSF mentorship program](https://qosf.org/qc_mentorship/)
 - 🏨 Built several projects in the QC/QML space—check them out below :)
