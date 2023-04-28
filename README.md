@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-pavanjayasinha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:pavanjayasinha@gmail.com)
 
 ### Now
-- 🧑‍💻 Research engineer at Stealth
+- 🧑‍💻 Research engineer build ML research infra at Stealth
 - 🔧 Working on a mentorship project integrating Nvidia GPU compability into TensorFlow Quantum
 - 🏫 Learning as an undergrad at the University of Waterloo for computer engineering (on gap)
 
