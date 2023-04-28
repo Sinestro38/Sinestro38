@@ -3,11 +3,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-pavanjayasinha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:pavanjayasinha@gmail.com)
 
 ### Now
+- 🧑‍💻 Research engineer at Stealth
 - 🔧 Working on a mentorship project integrating Nvidia GPU compability into TensorFlow Quantum
-- 🏫 Learning as an undergrad at the University of Waterloo for computer engineering
+- 🏫 Learning as an undergrad at the University of Waterloo for computer engineering (on gap)
 
 ### Recent
-- ⛏️ Research intern [@IQC](https://twitter.com/QuantumIQC) investigating applications of neutral atom quantum computing
+- 🧑‍💻 Developed performant C++ kernels for AI inference as a Software Engineer Intern [@UntetherAI](https://www.untether.ai/) 
+- ⛏️ Investigated applications of neutral atom quantum computing as a research intern [@IQC](https://twitter.com/QuantumIQC)
 - ⚛ Competed at QHack 2022 placing in the Top 8 teams for a [project](https://pavanjayasinha.medium.com/quantum-graph-neural-networks-applied-1f5b37922425) on quantum graph neural networks
 - ✍ Authored the section on QGANs for the [IBM Qiskit Textbook](https://learn.qiskit.org/course/machine-learning/quantum-generative-adversarial-networks) on quantum machine learning as a Qiskit Advocate
 - ⚡ Investigated quantum generative models as a quantum AI intern at [Zapata Computing](https://www.zapatacomputing.com/) 
