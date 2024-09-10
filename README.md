@@ -3,11 +3,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-pavanjayasinha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:pavanjayasinha@gmail.com)
 
 ### Now
-- 🧑‍💻 Research engineer building ML research infra at Stealth
-- 🔧 Working on a mentorship project integrating Nvidia GPU compability into TensorFlow Quantum
+- 🔥 Interning [@Modular](https://x.com/modular) to help build Mojo on GPU!
 - 🏫 Learning as an undergrad at the University of Waterloo for computer engineering (on gap)
 
 ### Recent
+- 🧑‍💻 Took a gap year (2023) and built the hardware simulation codebase as a research engineer at [@Extropic](https://x.com/extropic_ai)
+- 🔧 Drove GPU compatibility into TensorFlow Quantum (Open source)
 - 🧑‍💻 Developed performant C++ kernels for AI inference as a Software Engineer Intern [@UntetherAI](https://www.untether.ai/) 
 - ⛏️ Investigated applications of neutral atom quantum computing as a research intern [@IQC](https://twitter.com/QuantumIQC)
 - ⚛ Competed at QHack 2022 placing in the Top 8 teams for a [project](https://pavanjayasinha.medium.com/quantum-graph-neural-networks-applied-1f5b37922425) on quantum graph neural networks
