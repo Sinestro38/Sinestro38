@@ -6,7 +6,7 @@
 - 🏫 3rd yr undergrad at the University of Waterloo for computer engineering (on gap)
 
 ### Recent
-- 🔥 Interned [@Citadel Securities] to do research on applying NLP to systematic equity pipelines.
+- 🔥 Interned [@Citadel Securities](https://x.com/citsecurities) to do research on applying NLP to systematic equity pipelines.
 - 🔥 Interned [@Modular](https://x.com/modular) to help multi-gpu Mojo and specialized kernels for LLM serving
 - 🧑‍💻 Took a gap year (2023) and built the hardware simulation codebase as a research engineer at [@Extropic](https://x.com/extropic_ai)
 - 🔧 Drove GPU compatibility into TensorFlow Quantum (Open source)
