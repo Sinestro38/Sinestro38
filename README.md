@@ -3,10 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-pavanjayasinha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjayasinha@gmail.com)](mailto:pavanjayasinha@gmail.com)
 
 ### Now
-- 🔥 Interning [@Modular](https://x.com/modular) to help build Mojo on GPU!
-- 🏫 Learning as an undergrad at the University of Waterloo for computer engineering (on gap)
+- 🏫 3rd yr undergrad at the University of Waterloo for computer engineering (on gap)
 
 ### Recent
+- 🔥 Interned [@Citadel Securities] to do research on applying NLP to systematic equity pipelines.
+- 🔥 Interned [@Modular](https://x.com/modular) to help multi-gpu Mojo and specialized kernels for LLM serving
 - 🧑‍💻 Took a gap year (2023) and built the hardware simulation codebase as a research engineer at [@Extropic](https://x.com/extropic_ai)
 - 🔧 Drove GPU compatibility into TensorFlow Quantum (Open source)
 - 🧑‍💻 Developed performant C++ kernels for AI inference as a Software Engineer Intern [@UntetherAI](https://www.untether.ai/) 
